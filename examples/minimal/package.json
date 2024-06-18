@@ -8,9 +8,8 @@
     "isin-validator": "^1.1.1"
   },
   "devDependencies": {
-    "@aws-sdk/client-cloudformation": "^3.410.0",
     "@types/node": "^18.7.21",
-    "esbuild": "^0.21.0",
+    "esbuild": "^0.20.0",
     "serverless": "^3.22.0",
     "serverless-esbuild": "file:../..",
     "serverless-offline": "^10.2.1"
